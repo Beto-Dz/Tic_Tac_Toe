@@ -1,0 +1,14 @@
+.cell{
+    border: 1px solid white;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4rem;
+    font-weight: bolder;
+    color: white;
+
+    &:hover{
+        cursor: pointer;
+    }
+}
